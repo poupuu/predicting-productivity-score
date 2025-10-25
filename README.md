@@ -19,6 +19,7 @@ This project builds and compares four different deep learning models to predict 
 3. Deep Learning Frameworks: Tensoflow/Keras, Sequential, Functional 
    
 ## Results
+![Productivity Score Sequential Result](assets/Productivity-Score-Sequential-Results.png)
 1. Modified Sequential model the best performing model
 2. Highest model with R² Score of 0.3724, indicating the variance in the productivity score
 3. Lowest Mean Absolute Error (MAE) is the most accurate and reliable predictor
